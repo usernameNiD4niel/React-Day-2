@@ -4,4 +4,6 @@
 const () day3 => console.log("We're done with basics!");
 ```
 
-### Progressing![PROGRESS](https://github.com/usernameNiD4niel) for more info...
+### `Progressing!`
+
+**You can follow me on [facebook](https://web.facebook.com/daniel.rey.9440) and let's `build website!`**
